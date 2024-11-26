@@ -1,9 +1,8 @@
 ![Example Image](./pic1.png)
-![Example Image](./example.png)
-![Example Image](./example.png)
-![Example Image](./example.png)
-
-
+![Example Image](./pic2.png)
+![Example Image](./pic3.png)
+![Example Image](./pic4.png)
+![Example Image](./pic5.png)
 
 # Cosmic-Navigator
 
