@@ -1,4 +1,4 @@
-![Example Image](./example.png)
+![Example Image](./pic1.png)
 ![Example Image](./example.png)
 ![Example Image](./example.png)
 ![Example Image](./example.png)
