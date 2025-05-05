@@ -9,8 +9,6 @@
 ![Example Image](./pic5.png)
 
 
-rewrite this text with using emoji and stickers
-
 This Python project is a simple space exploration game created by KATOUZIAN Pouria using the Pygame library. The game features a spacecraft that can be controlled by the player to navigate through space while avoiding collisions with planets. Key features and components of the project include:
 
 Libraries:
